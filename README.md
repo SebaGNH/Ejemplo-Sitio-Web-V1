@@ -1,10 +1,4 @@
-## Ejemplo página web
-
-actualizando -- Master con sin actualizacion
-
-comprobar diff
-
-ninguno
+## Actualización a flexbox
 
 
-Modificando desarrollo con checkout
+https://sebagnh.github.io/Ejemplo-Sitio-Web-V1/
